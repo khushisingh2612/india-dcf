@@ -2,5 +2,6 @@ __pycache__
 .vscode
 _config.yml
 venv
-imgs
+imgs/*.png
+imgs/*.jpg
 .env
